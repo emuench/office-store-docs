@@ -13,7 +13,7 @@ This article is a step-by-step guide that will detail how to submit your app to 
 
 ## Step 1: Select the type of app you are submitting
 
-From the Overview tab in the Microsoft Partner Center, select **Create a new** and select the type of app you're submitting. The example screenshots in this article show an Office Add-in, but the steps apply to Teams apps, SharePoint solutions, etc.
+From the Overview tab in Partner Center, select **Create a new...** and then the type of app you're submitting. The sample screenshots in this article show an Office add-in, but the steps also apply to other select offer types.
 
 ![Overview tab selected in the Microsoft Partner Center menu](./images/new/step-select-type-of-add-in.png)
 
@@ -25,16 +25,16 @@ You’ll be prompted to enter a name for your app.
 
 ## Step 3: Tell us about your Product Setup
 
-- **Will your app be listed in the Apple Store?** 
-    If so, include your Apple ID. You'll see a warning that reminds you to enter this information on screen. 
-- **Does your app use Azure Active Directory or SSO (AAD/SSO)?** 
+- **Will your app be listed in the Apple Store?**
+    If so, include your Apple ID. You'll see a warning that reminds you to enter this information on screen.
+- **Does your app use Azure Active Directory or SSO (AAD/SSO)?**
     If so, select the box that asks about this.
-- **Does your app require additional purchases?** 
+- **Does your app require additional purchases?**
     If so, select the box that asks about this. You will see a warning that reminds you to fill in the notes box on the review and publish page in a later step with your test credentials so a tester can verify this.
-- **Do you want to connect with your lead management CRM system?** 
+- **Do you want to connect with your lead management CRM system?**
     If so, connect this system using the Connect link.
 
-The following screenshot shows the two yellow warning boxes appear, reminding you to fill in your Apple ID and about providing your test credentials in a separate step. 
+The following screenshot shows the two yellow warning boxes appear, reminding you to fill in your Apple ID and about providing your test credentials in a separate step.
 
 ![Yellow warning boxes remind you to fill in your Apple ID and to provide your test credentials](./images/new/step-3-yellow-warnings.jpg)
 
@@ -112,7 +112,7 @@ The following image shows the Notes for certification box where you must provide
 
 ## Step 10:  Use the following checklist to avoid the top 5 common errors that produce 80% of review rejections
 
-You can use our **[pre-submission checklist](./checklist.md)** to address all the things on this list.
+Use our **[pre-submission checklist](./checklist.md)** to address the items in this list.
 
 - Did you include Terms of Use links?
 - Did you include Privacy Policy links?
@@ -124,4 +124,4 @@ Once you have answered those questions for yourself, hit the submit button on yo
 
 ## Step 11: Congratulations, you are done submitting!
 
-You can expect a response within 3 to 4 business days from our reviewers if there are any issues related to your submission.
+If there are any issues with your submission, you can expect a response from our reviewers within four business days.
